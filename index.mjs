@@ -1,4 +1,4 @@
-import createServer from '@tomphttp/bare-server-node';
+import createServer from 'educational-br-sr';
 import http from 'http';
 import nodeStatic from 'node-static';
 //const cors = require('cors');
